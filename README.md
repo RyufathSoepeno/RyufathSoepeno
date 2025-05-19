@@ -1,6 +1,6 @@
 # Ryufath's Portfolio
 
-LinkedIn: https://www.linkedin.com/in/ryufathsoepeno/
+LinkedIn: https://www.linkedin.com/in/ryufathsoepeno/ <br>
 Email: ryufathsoepeno@gmail.com
 
 Timeline:
