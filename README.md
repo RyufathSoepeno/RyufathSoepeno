@@ -1,12 +1,11 @@
 # Ryufath's Portfolio
 
-Timeline:
-
 How to download apk:
 1. Click the "App link"
 2. Click the three dots on the top right
 3. Click download (reccomended download through mobile phone)
 
+Timeline:
 
 2025: 
 | Project Name | Description | Resources Used | Screenshot(s) | URL |
