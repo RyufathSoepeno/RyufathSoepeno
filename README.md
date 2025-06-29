@@ -1,11 +1,11 @@
 # Ryufath's Portfolio
 
-<a href="https://github.com/RyufathSoepeno/MyPortfolio">Code & Works</a>
-
 How to download apk:
 1. Click the "App link"
 2. Click the three dots on the top right
 3. Click download (reccomended download through mobile phone)
+
+<a href="https://github.com/RyufathSoepeno/MyPortfolio">My Code & Works</a>
 
 2025: 
 | Project Name | Description | Resources Used | Screenshot(s) | URL |
