@@ -1,5 +1,7 @@
 # Ryufath's Portfolio
 
+<a href="https://github.com/RyufathSoepeno/MyPortfolio">Code & Works</a>
+
 How to download apk:
 1. Click the "App link"
 2. Click the three dots on the top right
