@@ -14,8 +14,7 @@ Work Experience:
   <li>Head of Curriculum, Google Developer Student Clubs (Oct 2021 - Oct 2022)</li>
 </ul>
 
-<a href="https://github.com/RyufathSoepeno/MyPortfolio">My Code & Works</a><br><br>
-<a href="https://www.linkedin.com/in/ryufathsoepeno/">LinkedIn</a>
+<a href="https://github.com/RyufathSoepeno/MyPortfolio">My Code & Works</a>|<a href="https://www.linkedin.com/in/ryufathsoepeno/">LinkedIn</a>
 
 2025: 
 | Project Name | Description | Resources Used | Screenshot(s) | URL |
