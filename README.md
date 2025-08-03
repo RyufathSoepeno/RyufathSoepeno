@@ -1,9 +1,18 @@
 # Ryufath's Portfolio
 
-How to download apk:
-1. Click the "App link"
-2. Click the three dots on the top right
-3. Click download (reccomended download through mobile phone)
+Double Degree Education: 
+<ul>
+  <li>BAS in Applied Computing (Information Management Emphasis), The University of Arizona</li>
+  <li>BCS in Information System, Sampoerna University</li>
+</ul>
+
+Work Experience:
+<ul>
+  <li>Information Systems Intern, Central Bank of Indonesia (Jun - Aug 2025)</li>
+  <li>Campus Ambassador, The University of Arizona International (Sep - Des 2024)</li>
+  <li>Substitute Computer Lab Assistant, Sampoerna University (Jan - May 2023)</li>
+  <li>Head of Curriculum, Google Developer Student Clubs (Oct 2021 - Oct 2022)</li>
+</ul>
 
 <a href="https://github.com/RyufathSoepeno/MyPortfolio">My Code & Works</a>
 
@@ -25,6 +34,11 @@ How to download apk:
 |IT Audit| Developed an IT Audit Company for INFS 3304 - IS Audit Course. Served as Group leader |Microsoft 365| <img width="692" height="807" alt="image" src="https://github.com/user-attachments/assets/74335380-3d0c-4169-8e94-090681cf3e88" /> |<ul><li><a href="https://github.com/RyufathSoepeno/MyPortfolio/blob/main/IT%20Project%20Management%20Documents/IT%20Audit%20Report.pdf" target="_blank">Report</a></li><li><a href="https://github.com/RyufathSoepeno/MyPortfolio/blob/main/IT%20Project%20Management%20Documents/IT%20Audit%20Presentation.pdf" target="_blank">Presentation</a></li></ul> |
 |Mr. Accounting|Independently developed an HTML website and Android App for an accounting application, which served for all accounting needs. <br> <br> | HTML/CSS, Javascript, Kotlin | ![Mr  Accounting](https://github.com/user-attachments/assets/b018c059-309e-40d9-87cc-154d9fd28868) <br> <br> ![Screenshot 2024-07-22 154739](https://github.com/user-attachments/assets/2fd3480a-5a7a-4f91-a7f8-3bdf3848738b) | <ul><li><a href="https://github.com/RyufathSoepeno/MyPortfolio/tree/main/Web%20Development%20Portfolio/Mr.%20Accounting/Mr.%20Accounting%204.0">Development</a></li><li><a href="https://mraccounting.vercel.app/" target="_blank">Website</a></li><li><a href="https://github.com/RyufathSoepeno/MyPortfolio/blob/main/Mobile%20Development%20Portfolio/Mr.%20Accounting/Mr.%20Accounting/app-release.apk" target="_blank">App</a></li></ul>|
 |Chicken Wings Restaurant| <br> Since: 2022 <br> Independently developed an HTML website and Android app on my available time for a chicken wings restaurant, which allows users to order wings.  <br> <br> | HTML/CSS, Javascript, Kotlin | ![Screenshot 2024-07-22 151023](https://github.com/user-attachments/assets/089828b2-a796-44cd-94cd-634cf611a3ee) | <ul><li><a href="https://github.com/RyufathSoepeno/MyPortfolio/tree/main/Web%20Development%20Portfolio/The%20Eatery/The%20Eatery%204.0">Development</a></li><li><a href="https://my-portfolio-kappa-five-35.vercel.app/" target="_blank">Website</a></li><li><a href="https://github.com/RyufathSoepeno/MyPortfolio/blob/main/Mobile%20Development%20Portfolio/Chicken%20Wings%20App/debug/app-debug.apk" target="_blank">App</a></li></ul>|
+
+How to download apk:
+1. Click the "App link"
+2. Click the three dots on the top right
+3. Click download (reccomended download through mobile phone)
 
 2023:
 | Project Name | Description | Resources Used | Screenshot(s) | URL |
