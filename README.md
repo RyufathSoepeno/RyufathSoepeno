@@ -9,32 +9,13 @@ Double Degree Education:
 Work Experience:
 <ul>
   <li>Information Systems Intern, Central Bank of Indonesia (Jun - Aug 2025)</li>
-    <ul>
-      <li>Worked on developing Microsoft PowerApps solutions to monitor government-owned vehicles</li>
-      <li>Assisted department staff with large datasets of Excel and databases</li>
-      <li>Helped draft a user manual for existing apps</li>
-    <ul>
   <li>Campus Ambassador, The University of Arizona International (Sep - Des 2024)</li>
-    <ul>
-      <li>Involved in the creation and broadcast of engaging Instagram Reels content for UA micro-campus, Sampoerna University</li>
-      <li> Assigned as Speaker for Sampoerna University Open House as representative of Micro-Campus Ambassador</li>
-      <li>Attended online open camera ambassador meetings with other UA micro-campus ambassadors worldwide</li>
-    <ul>
   <li>Substitute Computer Lab Assistant, Sampoerna University (Jan - May 2023)</li>
-  <ul>
-      <li>Provided computer lab assistance for the "Computer Programming for Engineering Applications" course (offered three times weekly)</li>
-      <li>Provided mentorship and technical support for 21 first-year students</li>
-      <li>Assisted in grading, monitoring, and setting up weekly class sessions and lab activities</li>
-  <ul>
   <li>Head of Curriculum, Google Developer Student Clubs (Oct 2021 - Oct 2022)</li>
-  <ul>
-      <li>Organized curriculum and topics for weekly beginner programming extracurricular activities, consisting of about 30+ students</li>
-      <li>Became speaker for two activities of GDSC SU as GDSC staff, teaching Scratch Programming and Java consecutively </li>
-      <li>Documented activity reports of weekly extracurricular activities to be submitted to Student Executive Body (BEM SU)</li>
-  <ul>
 </ul>
 
 <a href="https://github.com/RyufathSoepeno/MyPortfolio">My Code & Works</a>
+<a href="https://www.linkedin.com/in/ryufathsoepeno/">LinkedIn</a>
 
 2025: 
 | Project Name | Description | Resources Used | Screenshot(s) | URL |
