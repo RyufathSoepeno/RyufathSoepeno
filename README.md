@@ -8,7 +8,8 @@ Double Degree Education:
 
 Work Experience:
 <ul>
-  <li>Information Systems Intern, Central Bank of Indonesia (Jun - Aug 2025)</li>
+  <li>IT Instructor, Digikidz (Sep - current 2025)</li>
+  <li>Information Systems Intern, Central Bank of Indonesia (Jun - Aug 2024)</li>
   <li>Campus Ambassador, The University of Arizona International (Sep - Des 2024)</li>
   <li>Substitute Computer Lab Assistant, Sampoerna University (Jan - May 2023)</li>
   <li>Head of Curriculum, Google Developer Student Clubs (Oct 2021 - Oct 2022)</li>
