@@ -2,8 +2,8 @@
 
 Double Degree Education: 
 <ul>
-  <li>BASc in Applied Computing (Information Management Emphasis), The University of Arizona, GPA: 3.83</li>
-  <li>BCS in Information System, Sampoerna University, GPA: 3.59</li>
+  <li>BASc in Applied Computing (Information Management Emphasis), The University of Arizona, GPA: 3.83/4.00</li>
+  <li>BCS in Information System, Sampoerna University, GPA: 3.59/4.00</li>
 </ul>
 
 Work Experience:
