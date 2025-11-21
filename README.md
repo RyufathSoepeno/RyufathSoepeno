@@ -8,7 +8,8 @@ Double Degree Education:
 
 Work Experience:
 <ul>
-  <li>IT Instructor, Digikidz (Sep - current 2025)</li>
+  <li>Data and Information Specialist Intern, Ministry of Administrative and Bureaucratic Reform (November 2025 - Mei 2026)</li>
+  <li>IT Instructor, Digikidz (Sep - November 2025)</li>
   <li>Information Systems Intern, Central Bank of Indonesia (Jun - Aug 2024)</li>
   <li>Campus Ambassador, The University of Arizona International (Sep - Des 2024)</li>
   <li>Substitute Computer Lab Assistant, Sampoerna University (Jan - May 2023)</li>
