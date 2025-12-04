@@ -8,12 +8,12 @@ Double Degree Education:
 
 Work Experience:
 <ul>
-  <li>Data and Information Specialist Intern, Ministry of Administrative and Bureaucratic Reform (November 2025 - Mei 2026)</li>
-  <li>IT Instructor, Digikidz (Sep - November 2025)</li>
-  <li>Information Systems Intern, Central Bank of Indonesia (Jun - Aug 2024)</li>
-  <li>Campus Ambassador, The University of Arizona International (Sep - Des 2024)</li>
-  <li>Substitute Computer Lab Assistant, Sampoerna University (Jan - May 2023)</li>
-  <li>Head of Curriculum, Google Developer Student Clubs (Oct 2021 - Oct 2022)</li>
+  <li>Data and Information Specialist Intern, <b>Kementerian PANRB (Pendayagunaan Aparatur Negara dan Reformasi Birokrasi; Indonesian: Ministry of State Apparatus Utilization and Bureaucratic Reform)</b> (November 2025 - Mei 2026)</li>
+  <li>IT Instructor, <b>Digikidz</b> (Sep - November 2025)</li>
+  <li>Information Systems Intern, <b>Central Bank of Indonesia</b> (Jun - Aug 2024)</li>
+  <li>Campus Ambassador, <b>The University of Arizona International</b> (Sep - Des 2024)</li>
+  <li>Substitute Computer <b>Lab Assistant, Sampoerna University</b> (Jan - May 2023)</li>
+  <li>Head of Curriculum, <b>Google Developer Student Clubs</b> (Oct 2021 - Oct 2022)</li>
 </ul>
 
 <a href="https://github.com/RyufathSoepeno/MyPortfolio">My Code & Works</a> | <a href="https://www.linkedin.com/in/ryufathsoepeno/">LinkedIn</a>
