@@ -2,8 +2,9 @@
 
 Double Degree Education: 
 <ul>
-  <li>BASc in Applied Computing (Information Management Emphasis), The University of Arizona, GPA: 3.83/4.00</li>
-  <li>BCS in Information System, Sampoerna University, GPA: 3.59/4.00</li>
+  <li>BASc in Applied Computing (Information Management Emphasis), <b>The University of Arizona (2023-2025)</b>, GPA: 3.83/4.00</li>
+  <li>BCS in Information System, <b>Sampoerna University (2021-2025)</b>, GPA: 3.59/4.00</li>
+  <li>Associate in Arts, <b>Broward College (2021-2023)</b>, GPA: 3.39/4.00</li>
 </ul>
 
 Work Experience:
