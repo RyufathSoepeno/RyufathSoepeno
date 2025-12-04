@@ -8,7 +8,7 @@ Double Degree Education:
 
 Work Experience:
 <ul>
-  <li>Data and Information Specialist Intern, <b>Kementerian PANRB (Pendayagunaan Aparatur Negara dan Reformasi Birokrasi; Indonesian: Ministry of State Apparatus Utilization and Bureaucratic Reform)</b> (November 2025 - Mei 2026)</li>
+  <li>Data and Information Specialist Intern, <b>Kementerian PANRB (Pendayagunaan Aparatur Negara dan Reformasi Birokrasi; <br>Indonesian: Ministry of State Apparatus Utilization and Bureaucratic Reform)</b> (November 2025 - Mei 2026)</li>
   <li>IT Instructor, <b>Digikidz</b> (Sep - November 2025)</li>
   <li>Information Systems Intern, <b>Central Bank of Indonesia</b> (Jun - Aug 2024)</li>
   <li>Campus Ambassador, <b>The University of Arizona International</b> (Sep - Des 2024)</li>
