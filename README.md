@@ -1,6 +1,6 @@
 # Ryufath's Portfolio
 
-Full-Stack Developer | Data & Information Specialist  | Quality Assurance | fmr. Double Degree Student
+Full-Stack Developer | Data & Information Specialist  | Quality Assurance 
 
 Double Degree Education: 
 <ul>
