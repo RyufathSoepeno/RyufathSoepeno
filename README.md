@@ -1,5 +1,7 @@
 # Ryufath's Portfolio
 
+Full-Stack Developer | Data & Information Specialist  | Quality Assurance
+
 Double Degree Education: 
 <ul>
   <li>BASc in Applied Computing (Information Management Emphasis), <b>The University of Arizona (2023-2025)</b>, GPA: 3.83/4.00</li>
