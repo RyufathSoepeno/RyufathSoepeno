@@ -15,7 +15,7 @@ Work Experience:
   <li>IT Instructor, <b>Digikidz</b> (Sep - November 2025)</li>
   <li>Information Systems Intern, <b>Central Bank of Indonesia</b> (Jun - Aug 2024)</li>
   <li>Campus Ambassador, <b>The University of Arizona International</b> (Sep - Des 2024)</li>
-  <li>Substitute Computer <b>Lab Assistant, Sampoerna University</b> (Jan - May 2023)</li>
+  <li>Substitute Computer Lab Assistant, <b>Sampoerna University</b> (Jan - May 2023)</li>
   <li>Head of Curriculum, <b>Google Developer Student Clubs</b> (Oct 2021 - Oct 2022)</li>
 </ul>
 
