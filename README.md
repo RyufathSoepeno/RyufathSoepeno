@@ -2,21 +2,21 @@
 
 Full-Stack Developer | Data & Information Specialist  | Quality Assurance 
 
+Work Experience:
+<ul>
+  <li>Data and Information Specialist Intern, <b>Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (KemenPAN-RB)</b> (November 2025 - Mei 2026)</li>
+  <li>IT Instructor, <b>PT. DIGIKIDZ INDONESIA</b> (Sep - November 2025)</li>
+  <li>Information Systems Intern, <b>Central Bank of Indonesia</b> (Jun - Aug 2024)</li>
+  <li>Campus Ambassador, <b>The University of Arizona International</b> (Sep - Des 2024)</li>
+  <li>Substitute Computer Lab Assistant, <b>Sampoerna University</b> (Jan - May 2023)</li>
+  <li>Head of Curriculum, <b>Google Developer Student Clubs</b> (Oct 2021 - Oct 2022)</li>
+</ul>
+
 Double Degree Education: 
 <ul>
   <li>BASc in Applied Computing (Information Management Emphasis), <b>The University of Arizona (2023-2025)</b>, GPA: 3.83/4.00</li>
   <li>BCS in Information System, <b>Sampoerna University (2021-2025)</b>, GPA: 3.59/4.00</li>
   <li>AA in General Education, <b>Broward College (2021-2023)</b></li>
-</ul>
-
-Work Experience:
-<ul>
-  <li>Data and Information Specialist Intern, <b>Kementerian PANRB (Pendayagunaan Aparatur Negara dan Reformasi Birokrasi; <br>Indonesian: Ministry of State Apparatus Utilization and Bureaucratic Reform)</b> (November 2025 - Mei 2026)</li>
-  <li>IT Instructor, <b>Digikidz</b> (Sep - November 2025)</li>
-  <li>Information Systems Intern, <b>Central Bank of Indonesia</b> (Jun - Aug 2024)</li>
-  <li>Campus Ambassador, <b>The University of Arizona International</b> (Sep - Des 2024)</li>
-  <li>Substitute Computer Lab Assistant, <b>Sampoerna University</b> (Jan - May 2023)</li>
-  <li>Head of Curriculum, <b>Google Developer Student Clubs</b> (Oct 2021 - Oct 2022)</li>
 </ul>
 
 <a href="https://github.com/RyufathSoepeno/MyPortfolio">My Code & Works</a> | <a href="https://www.linkedin.com/in/ryufathsoepeno/">LinkedIn</a>
