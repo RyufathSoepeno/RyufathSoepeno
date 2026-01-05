@@ -4,7 +4,7 @@ Full-Stack Developer | Data & Information Specialist  | Quality Assurance
 
 Work Experience:
 <ul>
-  <li>Data and Information Specialist Intern, <b>Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (KemenPAN-RB)</b> (November 2025 - Mei 2026)</li>
+  <li>Data and Information Specialist Intern, <b>Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (KemenPAN-RB)</b> (November 2025 - May 2026)</li>
   <li>IT Instructor, <b>PT. DIGIKIDZ INDONESIA</b> (Sep - November 2025)</li>
   <li>Information Systems Intern, <b>Central Bank of Indonesia</b> (Jun - Aug 2024)</li>
   <li>Campus Ambassador, <b>The University of Arizona International</b> (Sep - Des 2024)</li>
