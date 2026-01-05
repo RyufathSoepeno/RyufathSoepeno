@@ -1,4 +1,4 @@
-# Ryufath's Portfolio
+<img width="1897" height="822" alt="image" src="https://github.com/user-attachments/assets/9a532e98-38a0-4b96-9976-ca08a5c85d96" /># Ryufath's Portfolio
 
 Full-Stack Developer | Data & Information Specialist  | Quality Assurance 
 
@@ -24,7 +24,8 @@ Work Experience:
 2026: 
 | Project Name | Description | Resources Used | Screenshot(s) | URL |
 |--------------|-------------|----------------|---------------|-----|
-|Data Analysis for Kementerian PANRB| Used Python's Matplotlib to generate visual data analytics for various datasets in PANRB|Python, Matplotlib, Matlab, Jupyter Notebook|<img width="1140" height="731" alt="image" src="https://github.com/user-attachments/assets/a01ebf04-5d0e-4d99-98db-cbe5d3cc53b9" />|<ul><li><a href="https://youtu.be/S9hVkOcktt4" target="_blank">Code & Result</a></li>Code & Result</ul> |
+|Portal Reformasi Birokrasi Nasional|Helped with the development and quality assurance of a newer version of the Portal|Laravel, PHP, HTML/CSS, Javascript, Blade, SQL|<img width="1826" height="902" alt="image" src="https://github.com/user-attachments/assets/dc948d12-b81c-4d4b-8df6-b445247133c3" /> <img width="1897" height="822" alt="image" src="https://github.com/user-attachments/assets/3f377ef2-5696-4386-bed1-8a187ef71731" />|<ul><li><a href="https://www.portalrb.id/" target="_blank">Website</a></li></ul>|
+|Data Analysis for Kementerian PANRB| Used Python's Matplotlib to generate visual data analytics for various datasets in PANRB|Python, Matplotlib, Matlab, Jupyter Notebook|<img width="1140" height="731" alt="image" src="https://github.com/user-attachments/assets/a01ebf04-5d0e-4d99-98db-cbe5d3cc53b9" />|<ul><li><a href="https://github.com/RyufathSoepeno/kunwasrb-data-analysis" target="_blank">Code & Result</a></li></ul> |
 
 2025: 
 | Project Name | Description | Resources Used | Screenshot(s) | URL |
