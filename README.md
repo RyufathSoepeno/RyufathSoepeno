@@ -1,4 +1,4 @@
-<img width="1897" height="822" alt="image" src="https://github.com/user-attachments/assets/9a532e98-38a0-4b96-9976-ca08a5c85d96" /># Ryufath's Portfolio
+# Ryufath's Portfolio
 
 Full-Stack Developer | Data & Information Specialist  | Quality Assurance 
 
