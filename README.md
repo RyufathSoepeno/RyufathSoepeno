@@ -1,8 +1,8 @@
-# 🚀Ryufath's Portfolio🚀
+# Ryufath's Portfolio
 
 Full-Stack Developer | Data & Information Specialist  | Quality Assurance 
 
-<b>💻Work Experience:</b>
+<b>💻 Work Experience:</b>
 <ul>
   <li>Data and Information Specialist, <b>Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (KemenPAN-RB)</b> (November 2025 - May 2026)</li>
   <li>IT Instructor, <b>PT. DIGIKIDZ INDONESIA</b> (Sep - November 2025)</li>
@@ -12,7 +12,7 @@ Full-Stack Developer | Data & Information Specialist  | Quality Assurance
   <li>Head of Curriculum, <b>Google Developer Student Clubs</b> (Oct 2021 - Oct 2022)</li>
 </ul>
 
-<b>🎓Double Degree Education:</b>
+<b>🎓 Double Degree Education:</b>
 <ul>
   <li>BASc in Applied Computing (Information Management Emphasis), <b>The University of Arizona (2023-2025)</b>, GPA: 3.83/4.00</li>
   <li>BCS in Information System, <b>Sampoerna University (2021-2025)</b>, GPA: 3.59/4.00</li>
