@@ -21,9 +21,7 @@ Full-Stack Developer | Data & Information Specialist  | Quality Assurance
 
 Quick Links:
 
-[![<> Code & Works](https://img.shields.io/badge/Code%20%26%20Works-View%20Portfolio-green?style=for-the-badge&logo=github)](https://github.com/RyufathSoepeno/MyPortfolio) 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ryufathsoepeno/)
+[![<> Code & Works](https://img.shields.io/badge/Code%20%26%20Works-View%20Portfolio-green?style=for-the-badge&logo=github)](https://github.com/RyufathSoepeno/MyPortfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ryufathsoepeno/)
 
 <b>Projects:</b>
 
