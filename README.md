@@ -19,7 +19,11 @@ Full-Stack Developer | Data & Information Specialist  | Quality Assurance
   <li>AA in General Education, <b>Broward College (2021-2023)</b></li>
 </ul>
 
-<a href="https://github.com/RyufathSoepeno/MyPortfolio">My Code & Works</a> | <a href="https://www.linkedin.com/in/ryufathsoepeno/">LinkedIn</a>
+![Code](https://img.shields.io/badge/Code-Green?style=for-the-badge&color=2ea44f)
+
+<a href="https://github.com/RyufathSoepeno/MyPortfolio">My Code & Works</a> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ryufathsoepeno/)
+
+<a href="https://www.linkedin.com/in/ryufathsoepeno/">LinkedIn</a>
 
 <b>Projects:</b>
 
