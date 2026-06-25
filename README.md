@@ -24,7 +24,7 @@ Quick Links:
 
 [![](https://img.shields.io/badge/%3C%3E%20Code%20%26%20Works--605b5b?style=for-the-badge&labelColor=09a950&logo=linkedin)](https://github.com/RyufathSoepeno/MyPortfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn--605b5b?style=for-the-badge&labelColor=blue&logo=linkedin)](https://www.linkedin.com/in/ryufathsoepeno/)
 
-<b>Projects:</b> <br>
+<b>Projects:</b> <br><br>
 2026: 
 | Project Name | Description | Resources Used | Screenshot(s) | URL |
 |--------------|-------------|----------------|---------------|-----|
