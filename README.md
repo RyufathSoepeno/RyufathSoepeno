@@ -6,8 +6,8 @@ IT Architect | Data & Information Specialist  | Quality Assurance
 <ul>
   <li>BFLP Management Trainee, <b>Bank Rakyat Indonesia (BRI)</b> (April 2026 -  Now)
       <ul>
-        <li><b>IT Architect Trainee</b> (August 2026 - now) </li>
-        <li><b>Generalist Trainee</b> (May 2026) </li>
+        <li>On The Job (OJT) Training - <b>IT Architect, Headquarters</b> (August 2026 - now) </li>
+        <li>On The Job (OJT) Training - <b>BRI Serang Branch Office</b> (May 2026) </li>
       </ul>
   </li>
   <li>Data and Information Specialist, <b>Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (KemenPAN-RB)</b> (November 2025 - April 2026)</li>
