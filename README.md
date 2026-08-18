@@ -1,10 +1,15 @@
 # Ryufath's Portfolio
 
-Full-Stack Developer | Data & Information Specialist  | Quality Assurance 
+IT Architect | Data & Information Specialist  | Quality Assurance 
 
 <b>💻 Work Experience:</b>
 <ul>
-  <li>Quality Assurance Management Trainee, <b>Bank Rakyat Indonesia (BRI)</b> (April 2026 -  Now)</li>
+  <li>BFLP Management Trainee, <b>Bank Rakyat Indonesia (BRI)</b> (April 2026 -  Now)
+      <ul>
+        <li><b>IT Architect Trainee</b> (August 2026 - now) </li>
+        <li><b>Generalist Trainee</b> (May 2026) </li>
+      </ul>
+  </li>
   <li>Data and Information Specialist, <b>Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (KemenPAN-RB)</b> (November 2025 - April 2026)</li>
   <li>Information Systems Intern, <b>Central Bank of Indonesia</b> (Jun - Aug 2024)</li>
   <li>Campus Ambassador, <b>The University of Arizona International</b> (Sep - Des 2024)</li>
